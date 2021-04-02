@@ -20,6 +20,6 @@
 ### Connect with Me:
 
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-Tw: [@eraydurakk](https://twitter.com/eraydurakk)
+Tw => [eraydurakk](https://twitter.com/eraydurakk)
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-Li: [/eraydurak](https://www.linkedin.com/in/eraydurak/)
+Li => [eraydurak](https://www.linkedin.com/in/eraydurak/)
